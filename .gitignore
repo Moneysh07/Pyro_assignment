@@ -1,0 +1,46 @@
+# Maven target directory
+/todo-backend/target/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules and build outputs
+/todo-frontend/node_modules/
+/todo-frontend/dist/
+
+# environment files
+.env
+
+# Java files
+*.class
+
+# Maven wrapper
+/todo-backend/mvnw.cmd
+/todo-backend/mvnw
+/todo-backend/.mvn/
+
+# package lock
+/todo-frontend/package-lock.json
+
+# other builds
+**/build/
+**/out/
+
+# ignore jar generated
+*.jar
